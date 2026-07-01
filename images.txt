@@ -6,3 +6,4 @@ ghcr.io/open-webui/open-webui:v0.9.0
 infiniflow/ragflow:v0.26.0
 nousresearch/hermes-agent:latest
 infiniflow/infinity:v0.4.0-dev5
+valkey/valkey:8
