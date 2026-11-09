@@ -1,9 +1,1 @@
-mysql:8.0.39
-docker.elastic.co/elasticsearch/elasticsearch:8.16.0
-redis:7.4.1
-pgsty/minio:RELEASE.2026-03-25T00-00-00Z
-ghcr.io/open-webui/open-webui:v0.9.0
-infiniflow/ragflow:v0.26.0
 nousresearch/hermes-agent:v0.23.0
-infiniflow/infinity:v0.4.0-dev5
-valkey/valkey:8
